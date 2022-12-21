@@ -1,0 +1,252 @@
+.left-banner{
+  height: 500px;
+ width: 50%;
+  background-color: #ac3a44;
+  position: relative;
+}
+.right-banner{
+  height: 500px;
+  width: 50%;
+ background-image: url(../images/Background-siêu-xe-moto.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.main-banner{
+  background-image: url(../images/10191dc079c208d33da8f1671a27f00f.jpeg);
+  background-repeat: no-repeat;
+ background-size: cover;
+  width: 100%;
+  height: 500px;
+  margin-top: 30px;
+}
+.footer-banner{
+  width: 100%;
+  height: 500px;
+  background-color: #bf404c;
+  position: relative;
+}
+.media{
+  background-image: url(../images/22542ffaccea6917a0ca0a403d552593.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+.img-left{
+  height: 500px;
+  background-image: url(../images/6cb41ea153966cc92e2cdffe97f1c689.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content-right{
+ display: flex;
+ align-items: center;
+ 
+
+}
+.main-footer{
+  height: 500px;
+  background-image: url(../images/a2b6b602a588bdde54267cda774fc601.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 30px;
+  font-size: 48px;
+  color: white;
+}
+.footer{
+  height: 500px;
+  background-color: #bf404c;
+}
+.product{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main{
+  position: relative;
+}
+.anh-noi{
+  position: absolute;
+  top: 150px;
+  left: 40%;
+}
+
+.u-link.u-border-palette-1-base[class*="u-border-"] {
+  border-color: #bf404c;
+}
+.u-link.u-border-palette-1-base[class*="u-border-"]:hover {
+  border-color: #ac3a44;
+}
+.boder{
+  border-bottom: 3px solid #ac3a44 ;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 600;
+}
+.boder:hover{
+  color: black;
+}
+.card-top img{
+ max-width: 223px;
+ max-height: 237px;
+}
+.card-body{
+  text-align: center;
+}
+.card{
+  text-align: center !important;
+  border: none !important;
+  border-radius: 50px;
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+.card:hover{
+  
+}
+.banner-top img{
+  width: 141px;
+  height: 77px;
+}
+.banner-top{
+  position: absolute;
+  top: 30%;
+  width: 300px;
+  left: 70px;
+  padding: 20px;
+}
+.text-banner-top{
+  font-size: 72px;
+  color: white;
+}
+.text-banner-body{
+  font-size: 16px;
+  color: white;
+  margin: 10px 57px 45px 0px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+.content-banner-top img{
+  height: 450px;
+  padding: 30px 20px;
+  margin-left: 65px;
+}
+.content-banner-body{
+  padding: 30px 20px;
+}
+.text-main-banner{
+  width: 562px;
+ 
+}
+.text-main-banner-top{
+  font-size: 48px;
+  width: 436px;
+}
+.text-main-banner-body{
+  width: 300px;
+  font-size: 16px;
+  color: #bf404c;
+}
+.u-text{
+  font-size: 16px;
+
+}
+.footer-banner-img img{
+  width: 700px;
+  
+}
+.footer-banner-img{
+  left: 27%;
+  top: -50px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+ position: absolute;}
+.media-content{
+  width: 600px;
+  color: white;
+  margin-left: 20px;
+}
+.content-media-top{
+  font-size: 48px;
+}
+.content-media-body{
+  font-size: 16px;
+  color: #bf404c;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+.boder1{
+  color: white;
+}
+.footer-content img{
+width: 220px;
+}
+.footer-content{
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+.form-control{
+background: none !important;
+}
+.cart-page{
+  
+  display: flex;
+  justify-content: center;
+margin-top: 50px;
+}
+table{
+  width: 100%;
+  border-collapse:collapse ;
+}
+
+.cart-info{
+  display: flex;
+  flex-wrap: wrap;
+}
+td img{
+width: 80px;
+height: 80px;
+margin-right: 10px;
+}
+th{
+  text-align: left;
+  padding: 5px;
+  color: #fff;
+  background-color: #ff523b;
+  font-weight: normal;
+}
+td{
+  padding: 10px 5px;
+}
+td input{
+  width: 40px;
+  height: 30px;
+  padding: 5px;
+  
+}
+td a{
+  color: #ff523b;
+  font-size: 12px;
+  text-decoration: none;
+}
+.total-price{
+  
+  display: flex;
+  justify-content: flex-end;
+}
+.total-price table{
+  border-top:3px solid #ff523b ;
+  width: 100%;
+  max-width: 350px;
+}
+td:last-child{
+  text-align: right;
+}
+th:last-child{
+  text-align: right;
+}
